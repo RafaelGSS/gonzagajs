@@ -1,5 +1,7 @@
-const sayHello = () => console.log("Gonzagajs!");
+const bootstrap = {
+  init: () => {
+    return `Gonzagajs!`
+  }
+}
 
-sayHello();
-
-module.exports = sayHello;
+module.exports = bootstrap
