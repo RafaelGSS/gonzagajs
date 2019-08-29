@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/RafaelGSS/gonzagajs.git",
-  "author": "Mateus Andrade <mateus.andrade@avecbrasil.com.br>",
   "license": "MIT",
   "devDependencies": {
     "jest": "^24.9.0",

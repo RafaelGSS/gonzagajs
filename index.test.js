@@ -1,5 +1,5 @@
 const bootstrap = require('./index')
 
-test('test SayHello', () => {
+test('test init', () => {
   expect(bootstrap.init()).toBe('Gonzagajs!')
 })
