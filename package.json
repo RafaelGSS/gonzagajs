@@ -1,0 +1,8 @@
+{
+  "name": "gonzagajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MateusAndrade/gonzagajs.git",
+  "author": "Mateus Andrade <mateus.andrade@avecbrasil.com.br>",
+  "license": "MIT"
+}
